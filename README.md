@@ -42,7 +42,3 @@ If you would like to contribute to the development of the application, please fo
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- Mention any individuals, organizations, or resources that you would like to acknowledge for their contributions or support.
