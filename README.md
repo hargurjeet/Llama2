@@ -20,12 +20,6 @@ To get started with the application, follow these steps:
 
 ## Usage
 
-Once the application is up and running, you can use the user interface to perform the following tasks:
-
-Sure, here's an updated version of the usage section:
-
-## Usage
-
 The primary use of the application is to create content based on the profile selected. The app provides a user-friendly interface to interact with the Meta Llama 2 model and generate blog content. Users can select a profile, such as "Researcher" or "Data Scientist," and specify the desired word limit for the content. The model will then generate a blog post based on the selected profile and word limit.
 
 The application also allows users to create both long-form and short-form content, depending on their needs. Users can specify a word limit ranging from 100 to 1000 words, providing flexibility in the length of the generated content.
